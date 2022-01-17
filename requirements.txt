@@ -1,0 +1,4 @@
+pysftp
+Flask
+picamera
+RPi.GPIO
